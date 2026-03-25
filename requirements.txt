@@ -1,0 +1,12 @@
+streamlit
+pandas
+numpy
+scikit-learn
+Pillow
+lightgbm
+matplotlib
+seaborn
+opencv-python
+streamlit-lottie
+scikit-image
+scipy
