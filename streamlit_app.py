@@ -286,8 +286,8 @@ with st.sidebar:
 
     st.subheader("Model Info")
     st.info("""
-    **Model:** LightGBM  
-    **Accuracy:** 78.76%
+    **Model:** XGBoost  
+    **Accuracy:** 79.50%
     """)
 
 

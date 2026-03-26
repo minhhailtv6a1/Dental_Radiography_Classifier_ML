@@ -42,7 +42,7 @@ def predict_from_features(features: np.ndarray, model: Any, scaler: Any) -> Tupl
 
 
 def classify_image(uploaded_file, model: Optional[Any] = None, scaler: Optional[Any] = None,
-                   model_path: str = 'models/LightGBM_encodeClass.pkl',
+                   model_path: str = 'models/XGBoost_encodeClass.pkl',
                    scaler_path: str = 'models/scaler.pkl') -> dict:
     """High-level helper to classify an uploaded file-like object.
 
